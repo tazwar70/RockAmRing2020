@@ -1,3 +1,6 @@
+:root{
+	--cool-font:'Cinzel Decorative', cursive;
+}
 .history{
 	height: 800px;
 	background-image: url("https://images.unsplash.com/photo-1478147427282-58a87a120781?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80");
@@ -7,7 +10,11 @@
 	flex-direction: column;
 	margin-top: 200px;
 	margin-bottom: 2%;
+	font-family: 'Grenze Gotisch', cursive;
 }	
+.category_of_ticket{
+	font-family: var(--cool-font);
+}
 
 .history>h2{
 	margin: 0;
@@ -16,13 +23,14 @@
 	font-size: 40px;
 	text-align: start;
 	font-weight: 800;
-
+	font-family: 'Grenze Gotisch', cursive;
 }
 
 .history>p{
 	margin-top: 4%;
 	margin-left: 5%; 
-	font-family: font_awesome_5_freeregular;
+	/* font-family: font_awesome_5_freeregular; */
+	font-family: 'Grenze Gotisch', cursive;
 	font-size: 25px;
 	text-align: start;
 	font-weight: 600;
@@ -31,7 +39,8 @@
 .event_description{ 
 	margin-left: 5%; 
 	margin-top: 3%;
-	font-family: font_awesome_5_freeregular;
+	/* font-family: font_awesome_5_freeregular; */
+	font-family: 'Grenze Gotisch', cursive;
 	align-self: space-between;
 }
 
