@@ -79,7 +79,7 @@
 	}
 
 	.history h2{
-		background: linear-gradient(to right, #53289F 10%, #602A69 40%, #772E0B 105%);
+		background: linear-gradient(to right, #cc6b11 10%, #d60606 40%, #cc6b11 105%);
 	  -webkit-background-clip: text;
 	  -webkit-text-fill-color: transparent;
 	}
