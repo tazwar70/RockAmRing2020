@@ -1,17 +1,18 @@
 .history{
 	height: 800px;
-	background-image: url("https://images.unsplash.com/photo-1522158637959-30385a09e0da?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80");
+	background-image: url("https://images.unsplash.com/photo-1478147427282-58a87a120781?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80");
 	background-size: 100%;
 	background-repeat: no-repeat;
 	display: flex;
 	flex-direction: column;
 	margin-top: 200px;
+	margin-bottom: 2%;
 }	
 
 .history>h2{
 	margin: 0;
 	padding-top: 100px;
-	margin-left: 50%; 
+	margin-left: 5%; 
 	font-size: 40px;
 	text-align: start;
 	font-weight: 800;
@@ -20,7 +21,7 @@
 
 .history>p{
 	margin-top: 4%;
-	margin-left: 50%; 
+	margin-left: 5%; 
 	font-family: font_awesome_5_freeregular;
 	font-size: 25px;
 	text-align: start;
@@ -28,7 +29,7 @@
 }
 
 .event_description{ 
-	margin-left: 50%; 
+	margin-left: 5%; 
 	margin-top: 3%;
 	font-family: font_awesome_5_freeregular;
 	align-self: space-between;
